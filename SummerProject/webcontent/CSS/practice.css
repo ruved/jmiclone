@@ -1,0 +1,89 @@
+#form{
+	background:#ffffff;
+	width: 300px;
+	margin-right: 20px;
+	padding: 20px;
+	margin-top: 0px;
+	
+}
+#off:hover{
+	text-decoration: none;
+}
+.list{	
+
+list-style: none;
+font-size: 20px;
+text-decoration: none;
+width: 100%;
+
+}
+.nav > li >a:hover{
+	background-color: white;
+	color: black;
+	padding: 16px;
+	border-radius: 15px;
+}
+.navbar{
+	background-color: #4CAF50;
+	color: white;
+}
+/*.Faculty
+{
+	list-style: inline;
+	font-size: 20px;
+	text-decoration: none;
+	margin-left:60px;
+}*/
+#listss{
+	padding: 10px;
+	font-size: 17px;
+}
+div>ul>li>a{
+	padding: 20px;
+	color: #000000;
+
+}
+div > p{
+	font-weight: bolder;
+}
+.fotter
+{
+width:100%; 
+font-family: 'Tahoma, Verdana, sans-serif'; 
+font-size: 14px; 
+text-align:center; 
+margin-top: 40px; 
+background-color: #4CAF50 ; 
+padding: 5px;
+font-weight: bold;
+color:black	;
+}
+#signout:hover{
+	text-decoration: none;
+
+}
+
+#hty{
+	font-size: 19px;
+}
+.breadcrumb{
+	font-weight: bold;
+	text-decoration: none;
+	margin-left: 40px;
+}
+.breadcrumb-item:hover{
+	text-decoration: none;
+}
+.list >ul >li>a{
+	margin-left: 40px;
+}
+
+@media only screen and (max-width:766px){
+	#listdown{
+		margin-top: 250px;
+	}
+
+}
+label{
+	margin-top: 10px;
+}

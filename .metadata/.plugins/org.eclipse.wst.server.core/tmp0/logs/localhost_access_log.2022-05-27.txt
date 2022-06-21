@@ -1,0 +1,17 @@
+127.0.0.1 - - [27/May/2022:05:54:46 +0530] "GET / HTTP/1.1" 404 752
+0:0:0:0:0:0:0:1 - - [27/May/2022:05:59:47 +0530] "GET /SummerProject/ HTTP/1.1" 200 5768
+0:0:0:0:0:0:0:1 - - [27/May/2022:05:59:47 +0530] "GET /SummerProject/bootstrap-3.3.6-dist/js/jquery-2.2.3.min.js HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [27/May/2022:05:59:47 +0530] "GET /SummerProject/bootstrap-3.3.6-dist/font-awesome-4.7.0/css/font-awesome-min.css HTTP/1.1" 404 846
+0:0:0:0:0:0:0:1 - - [27/May/2022:05:59:47 +0530] "GET /SummerProject/bootstrap-3.3.6-dist/font-awesome-4.7.0/css/font-awesome.css HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [27/May/2022:05:59:47 +0530] "GET /SummerProject/CSS/practice.css HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [27/May/2022:05:59:47 +0530] "GET /SummerProject/bootstrap-3.3.6-dist/css/bootstrap.min.css HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [27/May/2022:05:59:47 +0530] "GET /SummerProject/bootstrap-3.3.6-dist/js/bootstrap.min.js HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [27/May/2022:05:59:47 +0530] "GET /SummerProject/IMG/150px-Jamia_Millia_Islamia_Logo.svg.png HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [27/May/2022:05:59:47 +0530] "GET /SummerProject/IMG/talat.jpg HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [27/May/2022:05:59:47 +0530] "GET /SummerProject/IMG/img1.jpg HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [27/May/2022:05:59:47 +0530] "GET /SummerProject/IMG/img2.jpg HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [27/May/2022:05:59:47 +0530] "GET /SummerProject/IMG/img3.jpg HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [27/May/2022:05:59:47 +0530] "GET /SummerProject/IMG/img4.jpg HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [27/May/2022:05:59:47 +0530] "GET /SummerProject/bootstrap-3.3.6-dist/fonts/glyphicons-halflings-regular.woff2 HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [27/May/2022:05:59:47 +0530] "GET /SummerProject/bootstrap-3.3.6-dist/font-awesome-4.7.0/fonts/fontawesome-webfont.woff2?v=4.7.0 HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [27/May/2022:05:59:47 +0530] "GET /SummerProject/IMG/jamia.ico HTTP/1.1" 304 -
